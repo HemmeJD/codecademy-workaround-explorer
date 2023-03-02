@@ -1,1 +1,1 @@
-# codecademy-workaround-explorer
+# Codecademy: WorkAround Explorer

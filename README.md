@@ -13,4 +13,4 @@ WorkAround wanted their web app - named WorkAround Explorer - to allow users to 
 
 ## Launch
 
-View the live WorkAround Explorer App: 
+View the live WorkAround Explorer App: https://hemmejd.github.io/codecademy-workaround-explorer/
